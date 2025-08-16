@@ -1,0 +1,15 @@
+# CClean Enhanced - Core Dependencies
+# Windows C Drive Cleaner Tool
+
+# Essential packages
+colorama>=0.4.4
+psutil>=5.9.0
+
+# Windows-specific dependencies
+pywin32>=306
+
+# Optional UI enhancement
+tqdm>=4.64.0
+
+# Build tools (install with: pip install -r requirements.txt[build])
+# pyinstaller>=5.0
